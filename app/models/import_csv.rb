@@ -1,3 +1,0 @@
-class ImportCsv < ApplicationRecord
-  
-end
